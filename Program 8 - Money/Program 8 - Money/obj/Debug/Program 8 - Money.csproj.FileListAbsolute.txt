@@ -1,0 +1,11 @@
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\bin\Debug\Program 8 - Money.exe.config
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\bin\Debug\Program 8 - Money.exe
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\bin\Debug\Program 8 - Money.pdb
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program 8 - Money.csproj.AssemblyReference.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program 8 - Money.csproj.SuggestedBindingRedirects.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program_8___Money.calculate.resources
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program_8___Money.Properties.Resources.resources
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program 8 - Money.csproj.GenerateResource.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program 8 - Money.csproj.CoreCompileInputs.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program 8 - Money.exe
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Program 8 - Money\Program 8 - Money\obj\Debug\Program 8 - Money.pdb
