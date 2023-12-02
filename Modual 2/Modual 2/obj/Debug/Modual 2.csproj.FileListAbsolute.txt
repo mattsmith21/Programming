@@ -1,0 +1,11 @@
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\bin\Debug\Modual 2.exe.config
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\bin\Debug\Modual 2.exe
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\bin\Debug\Modual 2.pdb
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual 2.csproj.AssemblyReference.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual_2.frmSales.resources
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual_2.Properties.Resources.resources
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual 2.csproj.GenerateResource.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual 2.csproj.CoreCompileInputs.cache
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual 2.exe
+C:\Users\matthew\Documents\Mott Community College\COMS-176 intro to C#\Modual 2\Modual 2\obj\Debug\Modual 2.pdb
