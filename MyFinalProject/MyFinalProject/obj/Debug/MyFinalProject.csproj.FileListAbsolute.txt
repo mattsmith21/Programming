@@ -1,0 +1,13 @@
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\bin\Debug\Tickets.mdf
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\bin\Debug\Tickets_log.ldf
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\bin\Debug\MyFinalProject.exe.config
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\bin\Debug\MyFinalProject.exe
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\bin\Debug\MyFinalProject.pdb
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.csproj.AssemblyReference.cache
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.frmTickets.resources
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.Properties.Resources.resources
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.csproj.GenerateResource.cache
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.exe
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.pdb
+C:\Users\smith\source\Repos\MyFinalProject\MyFinalProject\obj\Debug\MyFinalProject.frmDetails.resources
