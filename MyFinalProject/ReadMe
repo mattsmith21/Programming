@@ -1,1 +1,10 @@
-While working on this project, I was able to create a program that allowed users to add tickets to a databace, assign them to techninions, delete the tickets, and search by ticket names. 
+While working on this project, I created a program that allowed users to add tickets to a database, assign tickets to technicians, delete the tickets, and search by ticket names. 
+I learned alot about databases and how to interact with forms on this project. 
+
+What's included:
+SQL Database.
+Buttons to add, remove, and modify database entrys. 
+Three forms.
+  1 for viewing all tickets.
+  1 for modifying individual tickets. 
+  1 for adding tickets. 
